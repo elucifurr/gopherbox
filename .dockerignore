@@ -1,0 +1,11 @@
+# Local build artifacts
+gopherbox
+*.log
+
+# VCS / editor noise
+.git/
+.gitignore
+.DS_Store
+
+# Docs not needed in the image
+*.md
